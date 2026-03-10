@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Musics on BGN Park</title>
+    <link>http://10.255.1.105:1313/music/</link>
+    <description>Recent content in Musics on BGN Park</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 10 Mar 2026 21:59:21 +0900</lastBuildDate>
+    <atom:link href="http://10.255.1.105:1313/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nutcracker</title>
+      <link>http://10.255.1.105:1313/music/nutcracker/</link>
+      <pubDate>Tue, 10 Mar 2026 21:59:21 +0900</pubDate>
+      <guid>http://10.255.1.105:1313/music/nutcracker/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/music/nutcracker/nutcracker_01.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/music/nutcracker/nutcracker_02.avif&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

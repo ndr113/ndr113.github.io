@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foods on BGN Park</title>
+    <link>http://10.255.1.105:1313/food/</link>
+    <description>Recent content in Foods on BGN Park</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 10 Mar 2026 21:35:00 +0900</lastBuildDate>
+    <atom:link href="http://10.255.1.105:1313/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newemptybowl</title>
+      <link>http://10.255.1.105:1313/food/newemptybowl/</link>
+      <pubDate>Tue, 10 Mar 2026 21:35:00 +0900</pubDate>
+      <guid>http://10.255.1.105:1313/food/newemptybowl/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_01.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_02.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_03.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_04.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_05.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_06.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_07.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_08.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_09.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_10.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_11.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_12.avif&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://10.255.1.105:1313/food/newemptybowl/newemptybowl_13.avif&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
